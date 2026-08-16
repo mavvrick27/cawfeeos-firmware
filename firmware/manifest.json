@@ -1,7 +1,7 @@
 {
-  "version": "1.4.8",
-  "url": "https://cdn.jsdelivr.net/gh/mavvrick27/cawfeeos-firmware@main/firmware/cawfeeOS_1.4.8.bin",
+  "version": "1.4.9",
+  "url": "https://cdn.jsdelivr.net/gh/mavvrick27/cawfeeos-firmware@main/firmware/cawfeeOS_1.4.9.bin",
   "size": 1647776,
   "md5": "4549bf387965e509a53ba3e3b5e40425",
-  "notes": "cawfeeOS v1.4.8 firmware update"
+  "notes": "cawfeeOS v1.4.9 firmware update"
 }
