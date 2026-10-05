@@ -1,7 +1,7 @@
 {
-  "version": "1.4.37",
-  "url": "https://cdn.jsdelivr.net/gh/mavvrick27/cawfeeos-firmware@main/firmware/cawfeeOS_1.4.37.bin",
-  "size": 1839360,
-  "md5": "722f66571d5f5a0fc00790a4de1c6fff",
+  "version": "1.4.41",
+  "url": "https://cdn.jsdelivr.net/gh/mavvrick27/cawfeeos-firmware@main/firmware/cawfeeOS_1.4.41.bin",
+  "size": 1847536,
+  "md5": "ecffdc8beb1ea3a0f989d955f430643f",
   "notes": "cawfeeOS v1.5.0 firmware update"
 }
