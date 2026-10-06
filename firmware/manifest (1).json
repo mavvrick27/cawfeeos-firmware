@@ -1,0 +1,7 @@
+{
+  "version": "1.4.46",
+  "url": "https://raw.githubusercontent.com/mavvrick27/cawfeeos-firmware/main/firmware/cawfeeOS_1.4.46.bin",
+  "size": 1850016,
+  "md5": "c965900adbabbef15b19c052aefcfd8a",
+  "notes": "Pour-over history now displays yield, time and ratio separately. EXIT opens the delete confirmation. Fixed the beep forward declaration."
+}
