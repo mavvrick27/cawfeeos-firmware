@@ -1,0 +1,7 @@
+{
+  "version": "1.5.1",
+  "url": "https://raw.githubusercontent.com/mavvrick27/cawfeeos-firmware/main/firmware/cawfeeOS_1.5.1.bin",
+  "size": 1807984,
+  "md5": "7ba2c002430707eba6f401a9a974e2de",
+  "notes": "Improves live pour-over flow/weight graph rendering and keeps target alerts from blocking brew updates. Scale measurement and brew detection logic unchanged."
+}
