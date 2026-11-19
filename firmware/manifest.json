@@ -1,7 +1,0 @@
-{
-  "version": "1.4.59",
-  "url": "https://raw.githubusercontent.com/mavvrick27/cawfeeos-firmware/main/firmware/cawfeeOS_1.4.59.bin",
-  "size": 1866496,
-  "md5": "ace28b40f231ba1671dc603f58dabde1",
-  "notes": "Wi-Fi recipe generator memory improvements. OTA and brewing logic unchanged."
-}
